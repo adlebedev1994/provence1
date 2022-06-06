@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  font-family: "GothamPro-Black", sans-serif;
+}
+body {
+  background-color: lavender;
+
+}
+@font-face {
+font-family: "GothamPro-Black"; 
+src: url("../fonts/GothamPro-Black.ttf"); 
+font-style: normal; 
+font-weight: normal; 
+}
+.container1 {
+  height: 500px;
+  position: relative;
+}
